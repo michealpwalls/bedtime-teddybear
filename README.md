@@ -8,7 +8,8 @@ bedtime-teddybear - By Micheal Walls (michealpwalls@gmail.com)
 Technical Description
 ======================
 
-  Revision of the PiSpeakHC example sketch provided with the WaveHC library.
+  Written in ANSI C.
+  A revision of the "PiSpeakHC" example sketch provided with the WaveHC library.
 
     1. Added a button press counter (Digital I/O 6)
     2. Revised playcomplete() to return boolean false if button pressed during playback, else true
